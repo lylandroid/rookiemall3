@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <org.itheima.recycler.widget.ItheimaRecyclerView
+        android:id="@+id/left_recycler_view"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="3"/>
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/swipe_refresh_layout"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="7">
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <org.itheima.recycler.widget.ItheimaRecyclerView
+                android:id="@+id/right_recycler_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal|top"
+                app:spanCount="2"/>
+
+            <org.itheima.recycler.header.RecyclerViewHeader
+                android:id="@+id/recycler_view_header"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_gravity="center_horizontal|top">
+
+                <com.daimajia.slider.library.SliderLayout
+                    android:id="@+id/slider_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    android:layout_margin="0dp"
+                    android:minHeight="1px"
+                    android:padding="0dp"/>
+            </org.itheima.recycler.header.RecyclerViewHeader>
+        </FrameLayout>
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+</LinearLayout>
+

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="BaseRecyclerAndAdapter-0.5.11">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/rookiemall/build/intermediates/exploded-aar/com.github.open-android/BaseRecyclerAndAdapter/0.5.11/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/rookiemall/build/intermediates/exploded-aar/com.github.open-android/BaseRecyclerAndAdapter/0.5.11/res" />
+      <root url="jar://$PROJECT_DIR$/rookiemall/build/intermediates/exploded-aar/com.github.open-android/BaseRecyclerAndAdapter/0.5.11/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

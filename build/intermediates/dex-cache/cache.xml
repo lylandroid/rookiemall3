@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7a2672b3122b897a0751f327929ae405ea02bf7">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.squareup.leakcanary-leakcanary-android-1.5_46c597ce41bba7d775cc477b1104be08721bfc53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c6eb83dc8bf6b99c916e7b40f172eb5e5d9ca4cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.github.open-android\BaseRecyclerAndAdapter\0.5.11\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="225e27d5b6b11ee7aa46927e8f3d33520c0f7b62">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.github.open-android-BaseRecyclerAndAdapter-0.5.11_eeeecdc5f22ffca1370e987c63e220cc514b4650.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_ab64c776fcaca5036d2d24cffa8e364b23962e05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lyl\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.5\3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f\leakcanary-analyzer-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\leakcanary-analyzer-1.5_784a2cc90a6125f4d9f775bdb03b4b4fa7432004.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\_tools\_java\android\android-sdk\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_923ee41e40c34da85d6154361ad293fc58dd980b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_7f61486df2c843f2d96f897a3f507d91c21f65e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_c95e06b371eb6bb2245a8b0e3083dca1c3074b7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lyl\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\2.0.3\640a438d2d415c056ca6a673ac26b183b044e160\haha-2.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\haha-2.0.3_783ac1e749e56f328171228258c85b40762036af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_0dd4bc23fe91668e30acc441bda5e13f38b031d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\libs\MobCommons-2016.1012.1447.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="247197e11f7c035dd417c0a15306da9e2f220547">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\MobCommons-2016.1012.1447_9ad02c152d904da2e65a5d5478108f30b41116ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ef37cde634c2eb5415ad918c0264afd5d43989ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_1012789ae11cac40dc65b61c9226eb20fc5304d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lyl\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.5\288101b16513158c2923ad3fb6161d1452b65e73\leakcanary-watcher-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="288101b16513158c2923ad3fb6161d1452b65e73">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\leakcanary-watcher-1.5_618f383e0b4e0f2bc4e0bf9bbb8bfcb91710fa0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\SMSSDKGUI-2.1.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a63d84564449cb36b6d4ff28bff3acf581d2e13">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-SMSSDKGUI-2.1.2_16d1ce2af0032cfb48dd83fd7f8f549e816668c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lyl\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\retrofit-2.1.0_0da0db86bae4b8713d587720e38ed05a20968425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_0d9847ab68d267891bce4040d2063f2d8e79706f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.github.open-android\RetrofitUtils\0.3.12\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3832c3fba518c08dccdbccc1317c10f7ab6fe338">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.github.open-android-RetrofitUtils-0.3.12_67daedf71a7e46d31e750c93078738bc4f32c311.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lyl\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\eventbus-3.0.0_a6aad9e05d4e3265bf16af5d2b4b1715bcabb821.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\rookiemall3.lib\pingpp\unspecified\jars\libs\alipaySingle-20160825.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="97c6ef557de6ca52c3fa0b8850ced93428e9607b">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\alipaySingle-20160825_a75ccf10f002d08210e28c6a17929eb2835d0da6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\rookiemall3.lib\pingpp\unspecified\jars\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0a97f76f6eedd828815dc1b774fef5047b73e81">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\libammsdk_d02d0cca453f44a5aad43dfa22150548878d538e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\rookiemall3.lib\bdwallet_pay_sdk\unspecified\jars\libs\Cashier_SDK-v4.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="576d53899927bbfd70d37b7f8d06250b85aea61c">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\Cashier_SDK-v4.2.2_33fc921fce96449aef5dd80ebb502a8be948e5c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lyl\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\gson-2.7_e68b55b680e374fbfe3742706262be87cfb32598.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.cjj.materialrefeshlayout\library\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="597d857fe9b090c4582f0855a2c6d6cc45fec544">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.cjj.materialrefeshlayout-library-1.3.0_d4858c8c9c610e3eb2928c60c7acdf8a4cdcca6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lyl\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\library-2.4.0_9397aedbf944007a63d682c60f863e7316e1a369.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lyl\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\okio-1.8.0_8e319032641f11173d95a8394ce04150a60ce788.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\rookiemall3.lib\pingpp\unspecified\jars\libs\UPPayAssistEx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26643438730327d6161b04a6a2908f69de3c9af0">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\UPPayAssistEx_ba6e27e98622acb60eb91f0c1c5f6b7aa0e2db11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lyl\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\okhttp-3.3.0_fc4f00b98e028c392667f9d3299e0f76430801ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\SMSSDK-2.1.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e771b37b443378199ab670e072a4469f363533ac">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-SMSSDK-2.1.2_7e4c8b28eb3cde432dab114c7719d342240d504e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_60ade2b18f5f6a2e0bdbb998ca91df05c4d13e02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.bigkoo\pickerview\2.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0017e39fb3524d3fe4204646d4ed4c0913cd31b">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.bigkoo-pickerview-2.1.1_5a116cbec296c68c1e6aa36f53adeb4ce7279cae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\rookiemall3.lib\pingpp\unspecified\jars\libs\UPPayPluginExPro.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d43cc89d4f48e9a4f92f7d77e06ed00932c61b2">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\UPPayPluginExPro_4e6d22c025b373f9aec8e54e2258df4d97a484b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_8f80604b063e41979cf92ae1c7620691cc1c57e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\rookiemall3.lib\pingpp\unspecified\jars\libs\mqqopenpay.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78d6c29acae3ab744e29e3f03b65068056576157">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\mqqopenpay_59a4563461cc3adcd8363ca84d7980ddf10f1cf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d5fc0951ff8ae9d118efd6479a380a0a3f5f4c2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6c596f1c2ffce8587d3bf2d30014c61c1da64355.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\rookiemall3.lib\pingpp\unspecified\jars\libs\libpingpp-2.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="193fd6177b80d58bc055e199fcac392f95a6c631">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\libpingpp-2.1.6_54e13c6972a6cb5c2ef06cd036075dbcb23a3921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\rookiemall3.lib\pingpp\unspecified\jars\libs\cmbkeyboard.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beb634b2ec37aa32956fc3e54d2a610c95b973de">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\cmbkeyboard_655daf7370ce4e9b7c4f895409fb0505f8125188.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_bb4c83574bb96fa1535e97808e79e36dcdd25594.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lyl\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_e2a8747ae0d4e299364321dc31fefc18f06fa7a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_5789dba2bf57f9edba016d66089e5cb0614d8b5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.daimajia.slider-library-1.1.5_c87c1797f6f6469d255646a5bab85d0852889e66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_7dbfb30762b7dd5fefae3b0540dfe7f29c0cab3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_63a54cfad63b7e91ef015dfd52a4c818be9cb6cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0016cbf865c456e440349137cea368a49b216df">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\instant-run_7399ef7090b3c7583e79ddd5ce4d1fa2b463d3b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lyl\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_1ba290494d3f8ace485116eb17d2a18c9f382734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lyl\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\picasso-2.3.2_f2573a1cffb0cb688cc10576814e7436cba51408.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1e1c2625510ba33da7cf5e41b83df56720e14714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\libs\MobTools-2016.1012.1447.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1dbc3cd678d140053d9fc9ac01d9fc1db0b75a22">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\MobTools-2016.1012.1447_ef0e35e35f79aa56e25b8ffa92dfd502427aeb22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_0d21dba1d4e0ee0dfcaba91b1f0efd2de34ca0a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\exploded-aar\com.baoyz.pullrefreshlayout\library\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d05c16d86108d3d34377946a79d79f8485a46bfa">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\com.baoyz.pullrefreshlayout-library-1.2.0_018fe42cb1cb585d0b430e29939912c53f907ad2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9891a3830539e90e9a527bdcf039fe5b23a0e74e">
+        <dex dex="F:\workingSpace\android_studio\github\rookiemall3\rookiemall\build\intermediates\pre-dexed\debug\instant-run-bootstrap_49a6f078b1421212e6481d1067c29ac6f748cc5f.jar" />
+    </item>
+
+</items>

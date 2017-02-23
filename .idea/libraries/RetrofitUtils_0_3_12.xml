@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="RetrofitUtils-0.3.12">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/rookiemall/build/intermediates/exploded-aar/com.github.open-android/RetrofitUtils/0.3.12/res" />
+      <root url="jar://$PROJECT_DIR$/rookiemall/build/intermediates/exploded-aar/com.github.open-android/RetrofitUtils/0.3.12/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
